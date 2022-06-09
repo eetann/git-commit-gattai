@@ -1,1 +1,2 @@
 sample1: I love Kerry.
+sample2: He is cool.
